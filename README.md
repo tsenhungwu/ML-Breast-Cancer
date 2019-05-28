@@ -11,10 +11,7 @@ Classify a record into either a malignant or benign group using Machine Learning
 
 # Technology
 <p align="middle">
-  <img height="125" width="250" src="https://github.com/tsenhungwu/Data-Engineer-Project/blob/master/Isongs_AWS/Images/aws_redshift.png"/>
-  <img height="200" width="300" src="https://github.com/tsenhungwu/Data-Engineer-Project/blob/master/Isongs_AWS/Images/aws_s3.png"/>
-  <img height="150" width="250" src="https://github.com/tsenhungwu/Data-Engineer-Project/blob/master/Isongs_AWS/Images/aws_ec2.png"/>
-  <img height="210" width="510" src="https://github.com/tsenhungwu/Data-Engineer-Project/blob/master/Isongs/Images/Python.png" />
+  <img height="210" width="510" src="https://github.com/tsenhungwu/Breast_Cancer/blob/master/Images/Python.png"/>
 </p>
 
 # Raw Data Exploration
