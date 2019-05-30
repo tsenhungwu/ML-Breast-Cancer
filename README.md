@@ -13,6 +13,8 @@ In this project, I aimed to provide solutions which could help doctors making fi
 - Classify a record based on its associated real-valued features which are computed for each cell nucleus into either a malignant or benign group using Machine Learning Classification algorithms.
 
 # Main Tasks 
+- Cleaned the original dataset by removing irrelevant features.
+- Performed feature selection through Exploratory Data Analysis and Two-sample T-testing.
 - Built Machine Learning Classification algorithms which can automatically classify patients into groups.
 - Optimized model performance through Bayesian Optimization hyperparameter tuning.
 - Validated predictions by providing feature importance report.
