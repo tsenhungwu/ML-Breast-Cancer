@@ -2,7 +2,7 @@
 <p align="middle">
   <img height="250" width="450" src="https://github.com/tsenhungwu/Breast_Cancer/blob/master/Images/Breast_Cancer.jpeg"/>
 
-Classify a record based on its associated real-valued features which are computed for each cell nucleus into either a malignant or benign group using Machine Learning Classification algorithms based on real-valued features computed for each cell nucleus.
+Classify a record based on its associated real-valued features which are computed for each cell nucleus into either a malignant or benign group using Machine Learning Classification algorithms.
 
 
 # Introduction
