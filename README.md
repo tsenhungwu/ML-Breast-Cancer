@@ -5,9 +5,9 @@
 
 
 # Introduction
-Human can make mistakes and baised judgements, and have subjective thinking when making important decisions. In the healthcare industry, doctors might be tired of inspecting images to diagnose whether a patient has breast cancer or not.
+Human beings can make mistakes and biased judgments, and have subjective thinkings when making important decisions. In the healthcare industry, doctors might be tired of inspecting images to diagnose whether a patient has breast cancer or not, which might further lead to an unfavorable conclusion, and patients feel panic if they incorrectly diagnosed as having breast cancer, but they, in fact, don't.
 
-In this project, I aimed to provide solutions which could help doctors making firm decisions, automating the diagnosis process, and focusing more on the subsequent prescribtion and medical treatment processes.
+In this project, I aimed to provide solutions which could help doctors making firm decisions, automating the diagnosis process, and focusing more on the subsequent prescription and medical treatment processes.
 
 # Objectives
 - Classify a record based on its associated real-valued features which are computed for each cell nucleus into either a malignant or benign group using Machine Learning Classification algorithms.
