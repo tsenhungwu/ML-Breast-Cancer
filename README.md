@@ -5,7 +5,7 @@
 
 
 # Introduction
-Human beings can make mistakes and biased judgments, and have subjective thinkings when making important decisions. In the healthcare industry, doctors might be tired of inspecting images to diagnose whether a patient has breast cancer or not, which might further lead to an unfavorable conclusion, and patients feel panic if they incorrectly diagnosed as having breast cancer, but they, in fact, don't have breast cancer.
+Human beings can make mistakes and biased judgments, and have subjective thinkings when making important decisions. In the healthcare industry, doctors might be tired of inspecting images to diagnose whether a patient has breast cancer or not, which might further lead to a wrong conclusion, and patients feel panic if they incorrectly diagnosed as having breast cancer, but they, in fact, don't have breast cancer.
 
 In this project, I aimed to provide solutions which could help doctors making firm decisions, automating the diagnosis process, and focusing more on the subsequent prescription and medical treatment processes.
 
