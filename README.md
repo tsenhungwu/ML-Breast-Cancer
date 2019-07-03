@@ -2,7 +2,7 @@
 
 <p align="middle">
   <img height="250" width="450" src="https://github.com/tsenhungwu/Breast_Cancer/blob/master/Images/Breast_Cancer.jpeg"/>
-
+</p>
 
 # Introduction
 Human beings can make mistakes and biased judgments, and have subjective thinkings when making important decisions. In the healthcare industry, doctors might be tired of inspecting images to diagnose whether a patient has breast cancer or not, which might further lead to a wrong conclusion. 
