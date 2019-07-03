@@ -22,11 +22,9 @@ In this project, I aimed to provide solutions which could help doctors making fi
 - Optimized model performance through Bayesian Optimization hyperparameter tuning.
 - Validated predictions by providing feature importance report.
 
-# Technology
+# Tools
 <p align="middle">
   <img height="210" width="510" src="https://github.com/tsenhungwu/Breast_Cancer/blob/master/Images/Python.png"/>
 </p>
-
-# Raw Data Exploration
 
 # How does this project work?
