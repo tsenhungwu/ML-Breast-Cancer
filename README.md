@@ -27,5 +27,3 @@ In this project, I aimed to provide solutions which could help doctors making fi
   <img height="200" width="480" src="https://github.com/tsenhungwu/Breast_Cancer/blob/master/Images/Python.png"/>
   <img height="210" width="320" src="https://github.com/tsenhungwu/Breast_Cancer/blob/master/Images/Sklearn.png"/>
 </p>
-
-# How does this project work?
